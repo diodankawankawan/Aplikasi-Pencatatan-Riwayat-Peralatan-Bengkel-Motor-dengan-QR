@@ -1,0 +1,8 @@
+streamlit
+streamlit-option-menu
+pandas
+openpyxl
+qrcode
+pillow
+matplotlib
+zxing-cpp
